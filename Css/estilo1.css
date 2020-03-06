@@ -1,0 +1,31 @@
+
+body{
+background: #39BCF5;
+}
+
+img.logo{
+width: 350px;
+height: 350px;
+}
+
+img.game{
+width: 350px;
+height: 150;
+}
+
+h1{
+  color: #B24230;
+font-family: cursive;
+}
+
+h2{
+  color: #B7F01F;
+  font-family: monospace;
+  text-align: center;
+}
+
+h3{
+  color: #7C7C7C;
+  font-family: sans-serif;
+  text-align: center;
+}
